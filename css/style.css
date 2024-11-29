@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Pinyon+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+@import url('components/container.css');
+
+@import url('components/avatar.css');
+
+@import url('components/button.css');
+
+@import url('components/banner.css');
+@import url('components/card.css');
+
+body{
+  font-family: 'Aboreto', system-ui ;
+  font-size: 18px;
+  margin: 0px;
+ }
+
+h1,h2,h3{
+ font-family: 'Pinyon Script', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+ text-decoration: none;
+}
